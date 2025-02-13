@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab_05/Began_Lab_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_05/data.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,11 +48,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Began_Lab3.executor": "Run",
+    "Python.Began_Lab_05.executor": "Run",
     "Python.Lab_03.executor": "Run",
     "Python.Lab_04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_04",
+    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_05",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +64,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_05" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_04" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_03" />
     </key>
@@ -113,6 +117,8 @@
       <updated>1738871442354</updated>
       <workItem from="1738871443928" duration="4537000" />
       <workItem from="1739291854071" duration="6400000" />
+      <workItem from="1739310499146" duration="901000" />
+      <workItem from="1739465377932" duration="6136000" />
     </task>
     <servers />
   </component>
@@ -121,6 +127,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/410Labs$Lab_04.coverage" NAME="Lab_04 Coverage Results" MODIFIED="1739308463537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_04" />
+    <SUITE FILE_PATH="coverage/410Labs$Began_Lab_05.coverage" NAME="Began_Lab_05 Coverage Results" MODIFIED="1739482117772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_05" />
     <SUITE FILE_PATH="coverage/410Labs$Began_Lab3.coverage" NAME="Began_Lab3 Coverage Results" MODIFIED="1739305639120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_03" />
     <SUITE FILE_PATH="coverage/410Labs$Lab_03.coverage" NAME="Lab_03 Coverage Results" MODIFIED="1738875378526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab_03" />
   </component>
