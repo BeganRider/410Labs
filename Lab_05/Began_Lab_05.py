@@ -130,4 +130,3 @@ model.fit(X_train,Y_train)
 pred = model.predict(X_test)
 score=accuracy_score(Y_test,pred)
 print(f'Accuracy SVM: {round(score*100,2)}%')
-
