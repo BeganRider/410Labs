@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_08/Began_Lab_08.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_08/Exercise.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_08/diabetes.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,23 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Began_Lab3.executor": "Run",
-    "Python.Began_Lab_05.executor": "Run",
-    "Python.Lab_03.executor": "Run",
-    "Python.Lab_04.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_08",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Began_Lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Began_Lab_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_04.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matth/Documents/GitHub/410Labs/Lab_08&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_07" />
@@ -134,7 +131,8 @@
       <workItem from="1739980305557" duration="2116000" />
       <workItem from="1740084807697" duration="748000" />
       <workItem from="1740512451868" duration="2731000" />
-      <workItem from="1740686029185" duration="2597000" />
+      <workItem from="1740686029185" duration="2612000" />
+      <workItem from="1740756316588" duration="29000" />
     </task>
     <servers />
   </component>
