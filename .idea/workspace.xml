@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_11/Began_Lab_11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_11/Exercise.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_11/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_12/Began_Lab_12.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_12/BostonHousing.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -142,7 +135,7 @@
       <workItem from="1741121155247" duration="1383000" />
       <workItem from="1741293252998" duration="1014000" />
       <workItem from="1741719463709" duration="2498000" />
-      <workItem from="1742930396268" duration="901000" />
+      <workItem from="1742930396268" duration="1007000" />
     </task>
     <servers />
   </component>
