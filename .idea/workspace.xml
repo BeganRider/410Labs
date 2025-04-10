@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lab_15/Began_Lab_15.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab_15/Online Retail.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Began_Lab_16.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/GroceryStoreDataSet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Screenshot 2025-04-10 152638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Screenshot 2025-04-10 152714.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Screenshot 2025-04-10 152730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Screenshot 2025-04-10 152755.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_16/Screenshot 2025-04-10 152811.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +61,9 @@
     "Python.Lab_03.executor": "Run",
     "Python.Lab_04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_15",
+    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_16",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,13 +74,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_16" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_15" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_13" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_11" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_10" />
-      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_16" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_12" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_08" />
     </key>
@@ -143,6 +150,8 @@
       <workItem from="1743103832915" duration="2412000" />
       <workItem from="1743107683794" duration="48000" />
       <workItem from="1744140148492" duration="1893000" />
+      <workItem from="1744142841952" duration="46000" />
+      <workItem from="1744312999235" duration="632000" />
     </task>
     <servers />
   </component>
