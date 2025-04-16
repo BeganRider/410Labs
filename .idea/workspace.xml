@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="" />
+    <list default="true" id="7c22c1ea-4544-4b5a-8179-c2e4989f4695" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lab_17/Began_Lab_17.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_17/Screenshot 2025-04-15 154249.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_17/Screenshot 2025-04-15 154321.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_17/Screenshot 2025-04-15 154355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_17/online_retail_II.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab_16/Began_Lab_16.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lab_16/Began_Lab_16.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,33 +53,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Began_Lab3.executor": "Run",
-    "Python.Began_Lab_05.executor": "Run",
-    "Python.Lab_03.executor": "Run",
-    "Python.Lab_04.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/matth/Documents/GitHub/410Labs/Lab_16",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Began_Lab3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Began_Lab_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_04.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/matth/Documents/GitHub/410Labs/Lab_17&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_17" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_16" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_15" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_13" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_11" />
-      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_10" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_17" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_16" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_12" />
       <recent name="C:\Users\matth\Documents\GitHub\410Labs\Lab_08" />
@@ -143,6 +152,10 @@
       <workItem from="1744140148492" duration="1893000" />
       <workItem from="1744142841952" duration="46000" />
       <workItem from="1744312999235" duration="750000" />
+      <workItem from="1744313827774" duration="506000" />
+      <workItem from="1744317019792" duration="11000" />
+      <workItem from="1744744828197" duration="1749000" />
+      <workItem from="1744814867011" duration="29000" />
     </task>
     <servers />
   </component>
